@@ -24,6 +24,6 @@
     "selenium-webdriver": "~2.35.2"
   },
   "dependencies": {
-      "selenium-launcher" : "http://github.com/gdunkle/nodejs-selenium-launcher/tarball/pass_arguments_to_server",
+      "selenium-launcher" : "http://github.com/gdunkle/nodejs-selenium-launcher/tarball/pass_arguments_to_server"
   }
 }
