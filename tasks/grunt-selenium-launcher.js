@@ -29,6 +29,6 @@ module.exports = function(grunt){
 				process.env.SELENIUM_HUB = "http://localhost:" + process.env.SELENIUM_LAUNCHER_PORT + "/wd/hub"
 				done();
 			}
-		},grunt.taskConfig.selenium-launch.extraArgs);
+		},grunt.taskConfig.seleniumLauncher.extraArgs);
 	});
 };
